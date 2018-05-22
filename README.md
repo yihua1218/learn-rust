@@ -2,6 +2,8 @@
 
 ## Install Rust on Windows
 
+Install [Visual Studio Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools) before install rust on Windows.
+
 Download [rustup-init.exe](https://www.rust-lang.org/en-US/install.html)
 
 ## Install Packages
