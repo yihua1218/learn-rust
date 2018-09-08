@@ -21,6 +21,14 @@ info: downloading component 'rustc'
 
 Must install cmake
 
+## Cargo
+
+``` bash
+$ git clone https://github.com/rust-lang/cargo
+$ cd cargo
+$ cargo build --release
+```
+
 ### Bat
 
 [bat](https://github.com/sharkdp/bat), A cat(1) clone with wings.
